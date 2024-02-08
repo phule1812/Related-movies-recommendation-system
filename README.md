@@ -1,5 +1,5 @@
 # Related movies recommendation
-Related movies recommendation Machine Learning Project
+This project is a machine learning project that uses data about movies downloaded on the internet. Then, analyze that data and build a system to recommend similar movies according to the following criteria: relevance, genre and average rating of the given movie.
 
 ## Datasets : 
 This Datasets for analysis and training are collected from MovieLens 20M Dataset in Kaggle. 
