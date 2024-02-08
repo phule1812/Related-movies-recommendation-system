@@ -26,9 +26,9 @@ DataFrame representing information of movies, which was saved to the file 'movie
 DataFrame representing information of movies, which was saved to the file 'Genre_Rating.csv:
 ![](image/rating_by_genre.png)
 
-Наименование | Пин
-:----|----:
-![](image/ave_rating_of_genre.png) |  ![](image/num_of_ratings_of_genres.png) 
+Наименование | Пин | sdsdsd
+:----|----|----:
+![](image/ave_rating_of_genre.png) |  ![](image/num_of_ratings_of_genres.png)  |  ![](image/number movies of genres.png)
 
 
 
