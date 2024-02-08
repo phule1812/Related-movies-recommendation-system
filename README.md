@@ -33,6 +33,7 @@ Average rating of genres | Number of ratings of genres | Number movies of genres
 ![](image/ave_rating_of_genre.png) |  ![](image/num_of_ratings_of_genres.png)  | ![](image/number_movies_of_genres.png)
 
 ### 2. Model K-Means for recommendation of movies
+* DataFrame for training model (df) was saved to file 'preparing_data_for_model.csv'
 A model K-Means with 7 cluster was build to find related movies with given movie.
 ![](image/clusters.png)
 
