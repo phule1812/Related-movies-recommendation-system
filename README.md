@@ -36,6 +36,7 @@ Average rating of genres | Number of ratings of genres | Number movies of genres
 * DataFrame for training model (df) was saved to file 'preparing_data_for_model.csv'
 
 A model K-Means with 7 cluster was build to find related movies with given movie.
+
 ![](image/clusters.png)
 
 When we give a my favourite movie, system will give us a list of 5 most similar movies, what we might be interested in:
